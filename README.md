@@ -12,10 +12,10 @@ que va a permitir que el acordeón se encuentre cerrado por defecto.
 
 ```js
 <script> 
-jQuery (documento) .ready (función ($) { 
-var delay = 100; setTimeout (function () {
-$ ('. elementor-tab-title'). removeClass ('elementor-active');
- $ ('. elementor-tab-content'). css ('display', 'none'); }, retraso);
+jQuery(document).ready(function($) { 
+var delay = 100; setTimeout(function() { 
+$('.elementor-tab-title').removeClass('elementor-active');
+ $('.elementor-tab-content').css('display', 'none'); }, delay); 
 }); 
 </script>
 ```
