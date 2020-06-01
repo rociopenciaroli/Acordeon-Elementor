@@ -5,6 +5,7 @@
 [![ui](https://github.com/rociopenciaroli/elementos/blob/master/ui.svg)](http://holarocio.com)
 
 
+
 ## ACORDEÓN EN ELEMENTOR, CERRADO POR DEFECTO
 
 Encima del elemento __acordeón__, vas a colocar un código ```<script>``` 
